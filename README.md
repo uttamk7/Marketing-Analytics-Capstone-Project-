@@ -1,4 +1,4 @@
-##Marketing Analytics for E-Commerce Marketplace
+## Marketing Analytics for E-Commerce Marketplace
 
 Project Description
 This project is a comprehensive marketing analytics solution developed for a leading online marketplace in India. The objective is to help the client measure, manage, and analyze the performance of their business. By leveraging data-driven insights, this project aims to understand customer behaviors, seller activities, product trends, and channel performance to optimize business strategies.

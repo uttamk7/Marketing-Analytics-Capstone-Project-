@@ -36,10 +36,10 @@ Assessment of customer satisfaction based on product and category ratings.
 Installation
 To run this project, you need to have Python installed along with the following libraries:
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SciPy
-Scikit-learn
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+SciPy,
+Scikit-learn,
 Jupyter Notebook (for running .ipynb files)
